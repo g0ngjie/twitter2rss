@@ -9,4 +9,4 @@ fork https://github.com/n0madic/twitter2rss
 
 群晖Nas自用
 
-docker: alrale/x2rss:latest
+docker: alrale/twitter2rss:latest
