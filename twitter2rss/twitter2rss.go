@@ -10,8 +10,8 @@ import (
 	"strings"
 	"sync"
 
-	twitterscraper "github.com/g0ngjie/twitter-scraper"
 	"github.com/gorilla/feeds"
+	twitterscraper "github.com/n0madic/twitter-scraper"
 )
 
 var (
